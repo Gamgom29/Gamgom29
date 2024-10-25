@@ -8,11 +8,9 @@
 
  🔹 I’m interested in Open Source development
 
- 🔹 I’ve experience in Web development (Angular, TypeScript, javaScript, Bootstrap , Tailwind , HTML5 , CSS3 , Nodejs , Express )  
- 
- 🔹 I’m currently working on **SmartRabbit (Logistic Services Project)**
+ 🔹 I’ve experience in Web development (Angular, TypeScript, javaScript, Bootstrap , Tailwind , HTML5 , CSS3 , Nodejs , Express , Nestjs )  
 
- 🔹 I’m currently learning **.Net Core**
+ 🔹 I’m currently learning **React.js**
 
  📫 How to reach me **gamgom298@gmail.com**
 
