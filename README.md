@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Abdelrahman+Gamgom;+I'm+Competitive+Programmer!;I'm+Software+Developer!"/>
 </h1>
-<h3 align="center">FullStack Developer (MEAN)</h3>
+<h3 align="center">FullStack Developer</h3>
 <p  align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
