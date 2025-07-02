@@ -8,7 +8,7 @@
 
  🔹 I’m interested in Open Source development
 
- 🔹 I’ve experience in Web development (Angular, Nextjs , TypeScript, javaScript , Tailwind , HTML5 , CSS3 , Nodejs , Express , Nestjs , socket.io  )  
+ 🔹 I’ve experience in Web development (Angular, Nextjs , TypeScript, javaScript , Tailwind , HTML5 , CSS3 , Nodejs , Express , Nestjs )  
 
  🔹 I’m currently learning **React.js**
 
