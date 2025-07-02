@@ -10,7 +10,7 @@
 
  🔹 I’ve experience in Web development (Angular, Nextjs , TypeScript, javaScript , Tailwind , HTML5 , CSS3 , Nodejs , Express , Nestjs )  
 
- 🔹 I’m currently learning **React.js**
+ 🔹 I’m currently learning **Next.js**
 
  📫 How to reach me **gamgom298@gmail.com**
 
