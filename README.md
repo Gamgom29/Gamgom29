@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Optional banner -->
-  <img src="YOUR_BANNER_URL" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Gamgom29/Gamgom29/main/banner.DNG" alt="banner" width="100%" />
 </p>
 
 <p align="center">
