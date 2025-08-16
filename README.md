@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hey!+I'm+Abdelrahman+Gamgom;Full-Stack+Developer+%26+ICPC+Community;NestJS+%7C+Next.js+%7C+Angular;Always+building%2C+always+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hey!+I'm+Abdelrahman+Gamgom;Full-Stack+Developer;NestJS+%7C+Next.js+%7C+Angular;Always+building%2C+always+learning" />
 </p>
 
 <p align="center">
