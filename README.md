@@ -2,12 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=700&height=60&duration=3500&lines=Hey!+I'm+Abdelrahman+Gamgom;Full-Stack+Developer;NestJS+%7C+Next.js+%7C+Angular;Always+building%2C+always+learning" />
 </p>
-
-<p align="center">
-  <!-- Optional banner -->
-  <img src="https://raw.githubusercontent.com/Gamgom29/Gamgom29/main/banner.DNG" alt="banner" width="100%" />
-</p>
-
 <p align="center">
   <a href="mailto:gamgom298@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gamgom298%40gmail.com-red?logo=gmail"></a>
   <a href="https://linkedin.com/in/abdelrahman-gamgom-4a3895258/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Gamgom-blue?logo=linkedin"></a>
